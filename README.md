@@ -61,6 +61,14 @@ Check out my work here:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ---
+## 📊 GitHub Analytics
+
+![Tauhid’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tauhidrana&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhidrana&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tauhidrana&theme=tokyonight)
+
+
+---
 
 ## 🎯 Current Goal
 
@@ -71,3 +79,4 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
