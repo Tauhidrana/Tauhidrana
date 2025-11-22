@@ -34,6 +34,19 @@ Check out my work here:
 
 ## 🔧 Tech Stack
 
+### Programming Languages
+
+* **C**
+* **C++**
+
+### Skills
+
+* **Data Structures & Algorithms (DSA)**
+
+---
+
+## 🔧 Tech Stack (continued)
+
 ### Backend & Frameworks
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -55,6 +68,6 @@ To become highly proficient in competitive programming and eventually build stro
 
 ---
 
+
+
 Thanks for stopping by!
-
-
