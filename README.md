@@ -63,9 +63,9 @@ Check out my work here:
 ---
 ## 📊 GitHub Analytics
 
-![Tauhid’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tauhidrana&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhidrana&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tauhidrana&theme=tokyonight)
+![Tauhid’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tauhidrana&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhidrana&layout=compact&theme=tokyonight) 
+ 
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tauhidrana&theme=tokyonight)
 
 
 ---
@@ -79,4 +79,5 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
