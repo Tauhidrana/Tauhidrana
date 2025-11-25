@@ -39,16 +39,6 @@ Check out my work here:
 * **C**
 * **C++**
 
-### Skills
-
-* **Data Structures & Algorithms (DSA)**
-
----
-## 📊 GitHub Analytics
-
-![Tauhid’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tauhidrana&show_icons=true&theme=tokyonight)  
-
-
 ---
 
 ## 🎯 Current Goal
@@ -60,6 +50,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
