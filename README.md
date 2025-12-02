@@ -47,13 +47,12 @@ Check out my work here:
 <img src="https://streak-stats.demolab.com/?user=Tauhidrana&theme=tokyonight" height="170"/>
 
 ---
-## 🏆 **Stats Zone (Glassy Effect)**
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
-</div>
+## 🧿 **My Social Links**
+<a href="https://github.com/Tauhidrana"><img width="40" src="https://skillicons.dev/icons?i=github"></a>
+<a href="www.linkedin.com/in/kazi-tauhid-rana-3a3549386"><img width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://www.facebook.com/tauhid.rana.00"><img width="40" src="https://skillicons.dev/icons?i=facebook"></a>
+<a href="https://www.instagram.com/tauhid.rana.52/"><img width="40" src="https://skillicons.dev/icons?i=instagram"></a>
 
 
 
@@ -66,6 +65,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
