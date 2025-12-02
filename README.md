@@ -40,30 +40,22 @@ Check out my work here:
 * **C++**
 
 ---
-### ⚡ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Tauhidrana&show_icons=true&theme=tokyonight" height="170"/>
 
----
+
 
 ### 🔥 Contribution Graph
 <img src="https://streak-stats.demolab.com/?user=Tauhidrana&theme=tokyonight" height="170"/>
 
 ---
-
-### 🐍 Contribution Snake
-<img src="https://github.com/Tauhidrana/Tauhidrana/blob/output/github-contribution-grid-snake.svg"/>
-
-
-### 🔥 Contribution Streak
+## 🏆 **Stats Zone (Glassy Effect)**
 
 <div align="center">
-  <a href="https://github.com/tauhidrana">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=tauhidrana&theme=dark&hide_border=true" 
-      alt="Tauhid Rana's GitHub Streak"
-    />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
+
+
 
 ## 🎯 Current Goal
 
@@ -74,6 +66,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
