@@ -41,29 +41,17 @@ Check out my work here:
 
 ---
 ### ⚡ GitHub Stats
-<div align="center">
-
-<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Tauhidrana&show_icons=true&theme=tokyonight" height="170"/>
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhidrana&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
 
 ---
 
 ### 🔥 Contribution Graph
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tauhidrana&theme=tokyonight" />
-</div>
+<img src="https://streak-stats.demolab.com/?user=Tauhidrana&theme=tokyonight" height="170"/>
 
 ---
 
 ### 🐍 Contribution Snake
-<div align="center">
-<img src="https://github.com/Tauhidrana/Tauhidrana/blob/output/github-contribution-grid-snake.svg" />
-</div>
+<img src="https://github.com/Tauhidrana/Tauhidrana/blob/output/github-contribution-grid-snake.svg"/>
 
 
 ### 🔥 Contribution Streak
@@ -86,6 +74,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
