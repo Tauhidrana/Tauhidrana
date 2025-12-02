@@ -44,25 +44,19 @@ Check out my work here:
 
 <div align="center">
   
-  <a href="https://github.com/tauhidrana">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=tauhidrana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21" 
-      alt="Tauhid Rana's GitHub Stats" 
-      height="180px"
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tauhidrana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21&hide_border=true" 
+    alt="Tauhid Rana's GitHub Stats" 
+    height="180px"
+  />
   
-  <a href="https://github.com/tauhidrana">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidrana&layout=compact&theme=dark&hide_title=true" 
-      alt="Tauhid Rana's Top Languages" 
-      height="180px"
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidrana&layout=compact&theme=dark&hide_title=true&hide_border=true" 
+    alt="Tauhid Rana's Top Languages" 
+    height="180px"
+  />
 
 </div>
-
-<br/>
 
 ### 🔥 Contribution Streak
 
@@ -84,6 +78,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
