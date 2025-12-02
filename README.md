@@ -40,6 +40,40 @@ Check out my work here:
 * **C++**
 
 ---
+### 📊 My GitHub History
+
+<div align="center">
+  
+  <a href="https://github.com/tauhidrana">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=tauhidrana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21" 
+      alt="Tauhid Rana's GitHub Stats" 
+      height="180px"
+    />
+  </a>
+  
+  <a href="https://github.com/tauhidrana">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidrana&layout=compact&theme=dark&hide_title=true" 
+      alt="Tauhid Rana's Top Languages" 
+      height="180px"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+  <a href="https://github.com/tauhidrana">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=tauhidrana&theme=dark&hide_border=true" 
+      alt="Tauhid Rana's GitHub Streak"
+    />
+  </a>
+</div>
 
 ## 🎯 Current Goal
 
@@ -50,6 +84,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
