@@ -43,8 +43,8 @@ Check out my work here:
 
 
 
-### 🔥 Contribution Graph
-<img src="https://streak-stats.demolab.com/?user=Tauhidrana&theme=tokyonight" height="170"/>
+### 🔥![Contribution Graph](https://raw.githubusercontent.com/Tauhidrana/Tauhidrana/main/assets/graph.png)
+
 
 ---
 
@@ -65,6 +65,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
