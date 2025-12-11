@@ -42,8 +42,8 @@ Check out my work here:
 ---
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tauhidrana&theme=dark)](https://git.io/streak-stats)
 
-### 🔥![Contribution Graph](https://raw.githubusercontent.com/Tauhidrana/Tauhidrana/main/assets/graph.png)
 
 
 ---
@@ -65,6 +65,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
