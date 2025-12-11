@@ -42,7 +42,8 @@ Check out my work here:
 ---
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tauhidrana&theme=dark)](https://git.io/streak-stats)
+![Tauhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tauhidrana&show_icons=true&theme=dark)
+
 
 
 
@@ -65,6 +66,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
