@@ -42,11 +42,6 @@ Check out my work here:
 ---
 
 
-![Tauhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tauhidrana&show_icons=true&theme=dark)
-
-
-
-
 ---
 
 ## 🧿 **My Social Links**
@@ -66,6 +61,7 @@ To become highly proficient in competitive programming and eventually build stro
 
 
 Thanks for stopping by!
+
 
 
 
