@@ -57,10 +57,14 @@ Check out my work here:
 To become highly proficient in competitive programming and eventually build strong backend engineering skills.
 
 ---
+### 💻 GitHub Stats
+
+![Tauhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tauhidrana&show_icons=true&theme=radical)
 
 
 
 Thanks for stopping by!
+
 
 
 
