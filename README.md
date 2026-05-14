@@ -42,7 +42,7 @@ Check out my work here:
 
 ---
 ### Project
-* ***http://zvert.lovable.app/**
+* ***http://zvert.lovable.app/***
 * ***https://takify.lovable.app/***
 
 ---
