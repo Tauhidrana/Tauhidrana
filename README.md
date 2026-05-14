@@ -38,17 +38,20 @@ Check out my work here:
 
 * **C**
 * **C++**
+* **Python**
 
 ---
-
+### Project
+* ***http://zvert.lovable.app/**
+* ***https://takify.lovable.app/***
 
 ---
 
 ## 🧿 **My Social Links**
 <a href="https://github.com/Tauhidrana"><img width="40" src="https://skillicons.dev/icons?i=github"></a>
 <a href="www.linkedin.com/in/kazi-tauhid-rana-3a3549386"><img width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
-<a href="https://www.facebook.com/tauhid.rana.00"><img width="40" src="https://skillicons.dev/icons?i=facebook"></a>
-<a href="https://www.instagram.com/tauhid.rana.52/"><img width="40" src="https://skillicons.dev/icons?i=instagram"></a>
+<a href="https://www.facebook.com/kazitauhidrana"><img width="40" src="https://skillicons.dev/icons?i=facebook"></a>
+<a href="https://www.instagram.com/fix_with_tauhid/"><img width="40" src="https://skillicons.dev/icons?i=instagram"></a>
 
 
 
