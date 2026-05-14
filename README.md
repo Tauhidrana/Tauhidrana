@@ -2,7 +2,7 @@
 
 ## 🏆 Competitive Programmer | Aspiring Software Engineer
 
-Focused, disciplined, and building myself one algorithm at a time.
+3★ at CodeChef | Competitive Programmer | Campus Hero at PH | Campus Ambassador at Shohoj coding
 
 ---
 
