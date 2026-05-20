@@ -2,7 +2,7 @@
 
 ## 🏆 Competitive Programmer | Aspiring Software Engineer
 
-3★ at CodeChef | Competitive Programmer | Campus Hero at PH | Campus Ambassador at Shohoj coding
+NHSPC 2026 Regionalist (5th place)  | 3★ at CodeChef | Competitive Programmer | Campus Hero at Programming Hero | Campus Ambassador at Shohoj coding
 
 ---
 
