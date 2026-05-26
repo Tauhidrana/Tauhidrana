@@ -42,8 +42,8 @@ Check out my work here:
 
 ---
 ### Project
-* ***http://zvert.lovable.app/***
-* ***https://takify.lovable.app/***
+* ***http://zverts.com/***
+
 
 ---
 
