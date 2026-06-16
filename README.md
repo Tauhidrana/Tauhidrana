@@ -2,8 +2,7 @@
 
 ## 🏆 Competitive Programmer | Aspiring Software Engineer
 
-NHSPC 2026 Regionalist (5th place)  | 3★ at CodeChef | Competitive Programmer | Campus Hero at Programming Hero | Campus Ambassador at Shohoj coding
-
+NHSPC 2026 National Round Finalist (Regional 5th Place) | 3★ CodeChef Programmer | Co-founder & CEO at ZeroD | Campus Hero at Programming Hero | Campus Ambassador at Shohoj Coding
 ---
 
 ## 🚀 About Me
