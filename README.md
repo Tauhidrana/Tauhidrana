@@ -35,9 +35,13 @@
 
 ## About
 
-Competitive programmer from Naogaon, Bangladesh, sharpening my skills in **C/C++** and **Data Structures & Algorithms**. I like tackling hard problems, optimizing logic, and understanding the deeper mechanics of performance.
+I am a Computer Science student at Rajshahi Polytechnic Institute with a passion for competitive programming, artificial intelligence, and software development.
 
-Clean code, strong fundamentals, and consistency — that's the path I follow.
+As the Co-founder & CEO of ZeroD, Campus Hero at Programming Hero, and Campus Ambassador at Shohoj Coding, I actively contribute to the tech community while continuously improving my technical skills.
+
+I am an NHSPC 2026 National Round Finalist (Regional 5th Place) and a 3★ CodeChef Programmer. I am always eager to solve challenging problems, build impactful projects, and explore opportunities in AI and software engineering.
+
+Some programmers write code to build things. I write code to solve things — then build them.
 
 - 🏆 NHSPC 2026 National Round Finalist (Regional 5th place)
 - ⭐ 3★ CodeChef programmer
